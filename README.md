@@ -38,6 +38,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my spare time, I try to find new technologies and practice them.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ebrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/ebrahim-kholilullah-3893472a4/)
+- - 📧: my email: <a href="https:"kholilullahe6@gmail.com">
 
 ---
 
