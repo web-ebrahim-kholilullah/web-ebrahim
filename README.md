@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 <div id="badges">
-  <a href="https:"https://www.linkedin.com/feed/?trk=onboarding-landing">
+  <a href="https:"https://www.linkedin.com/in/ebrahim-kholilullah-3893472a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/">
@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my spare time, I try to find new technologies and practice them.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shahadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/web-shahadat-hossain/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shahadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/ebrahim-kholilullah-3893472a4/)
 
 ---
 
