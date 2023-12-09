@@ -56,7 +56,6 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebrahim20254)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim20254)](https://github.com/anuraghazra/github-readme-stats)
 
